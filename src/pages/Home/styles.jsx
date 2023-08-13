@@ -5,6 +5,6 @@ export const Container = styled.div`
 	${tw`
     flex
     flex-col
+    bg-background-lighter
   `}
-	background-color: #f5f5f5;
 `;
